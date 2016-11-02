@@ -31,7 +31,7 @@ h2{
 }
 input{
   height: 18px;
-  width: 250px;
+  width: 220px;
   margin: 1%;
 }
 input:focus {
@@ -145,6 +145,11 @@ footer{
 #explication p{
   font-family: Arial, sans-serif;
   text-align: center;
+}
+#esplication .button{
+  width: 150px;
+  height: 5px;
+  margin-top: 8%;
 }
 /* ------  Journal ------ */
 /* ------  Vision ------ */
