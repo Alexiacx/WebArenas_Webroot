@@ -216,3 +216,7 @@ footer{
 #bouton_attaque2{
   padding-left: 38%;
 }
+
+.enligne{
+  text-decoration: underline;
+}
