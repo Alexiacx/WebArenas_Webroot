@@ -28,7 +28,15 @@ h1{
 h2{
   text-align: center;
   font-family: Shorelines_Script, sans-serif;
+  color: brown;
 }
+
+.gros_titre{
+  color: black;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 35px;
+}
+
 input{
   height: 18px;
   width: 220px;
@@ -184,8 +192,12 @@ footer{
     text-align: center;
 }
 
-#tableau{
+.tableau{
   padding-left: 42%;
+}
+
+.tableau2{
+  padding-left: 30%;
 }
 
 #bouton_deplacement{
